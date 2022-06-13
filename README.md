@@ -1,11 +1,11 @@
 # 야구게임 
-게임규칙
+게임규칙<br>
 랜덤하게 생성된 숫자 3개를 유저가 입력한 숫자와 비교하여 <br>
 자리수가 같은 숫자가 있으면 1스트라이크 숫자만 같으면 1볼로 3스트라이크가 되면 끝나는 게임이다<br>
 # 야구게임 코드
-메소드 2개를 생성과 칭찬문구 출력<br>
+메소드 2개 생성<br>
 ![image](https://user-images.githubusercontent.com/102035198/173264454-4646e0a7-bd5e-478e-b249-4d72bf8e7574.png)<br>
-Random 함수로 난수발생<br>
+난수발생<br>
 ![image](https://user-images.githubusercontent.com/102035198/173264443-284f670e-f6b0-4204-ab5e-70555d829be3.png)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/102035198/173264408-b4ced281-6358-495f-badb-6bf845783d85.png)<br>
