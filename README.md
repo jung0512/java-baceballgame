@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/102035198/173264443-284f670e-f6b0-4204-ab5e-70555d829be3.png)<br>
 <br>
 ![image](https://user-images.githubusercontent.com/102035198/173282291-c22f7f07-9ef4-40d0-abaa-2c6c107cb4ab.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/173282849-6ea2d33a-e5de-4edb-a1a4-042b5d7ec470.png)<br>
+사용자가 입력하는 데이터를 받아들이는 BufferedReader() 메소드의 객체변수 in 생성<br>
 ![image](https://user-images.githubusercontent.com/102035198/173282213-a3c08e0a-1e20-4dfe-818e-29c3161892df.png)<br>
 중복제거와 유저가 입력한 숫자와 컴퓨터가 생성한 숫자를 비교<br>
 # 출력화면
