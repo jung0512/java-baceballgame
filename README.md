@@ -4,7 +4,7 @@
 자리수가 같은 숫자가 있으면 1스트라이크 숫자만 같으면 1볼로 3스트라이크가 되면 끝나는 게임이다<br>
 # 야구게임 코드
 메소드 2개 생성<br>
-![image](https://user-images.githubusercontent.com/102035198/173264454-4646e0a7-bd5e-478e-b249-4d72bf8e7574.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/173282329-55b624e6-e8d1-4f13-9f71-a6998c1ff211.png)<br>
 난수발생<br>
 ![image](https://user-images.githubusercontent.com/102035198/173264443-284f670e-f6b0-4204-ab5e-70555d829be3.png)<br>
 <br>
