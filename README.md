@@ -8,7 +8,7 @@
 난수발생<br>
 ![image](https://user-images.githubusercontent.com/102035198/173264443-284f670e-f6b0-4204-ab5e-70555d829be3.png)<br>
 <br>
-![image](https://user-images.githubusercontent.com/102035198/173264408-b4ced281-6358-495f-badb-6bf845783d85.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/173282291-c22f7f07-9ef4-40d0-abaa-2c6c107cb4ab.png)<br>
 ![image](https://user-images.githubusercontent.com/102035198/173282213-a3c08e0a-1e20-4dfe-818e-29c3161892df.png)<br>
 중복제거와 유저가 입력한 숫자와 컴퓨터가 생성한 숫자를 비교<br>
 # 출력화면
