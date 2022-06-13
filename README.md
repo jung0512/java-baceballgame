@@ -3,7 +3,7 @@
 자릿수가 같은 숫자가 있으면 1스트라이크 숫자만 같으면 1볼로 3스트라이크가 되면 끝나는 게임이다<br>
 # 야구게임 코드
 ![image](https://user-images.githubusercontent.com/102035198/173285491-20860e27-5822-4520-b1a0-9b98d7056031.png)<br>
-result 변수 선언과 정수형으로 형변환을 통해 x,y,z 에 저장<br>
+게임 결과 값을 위한 result 변수 선언과 정수형으로 형변환을 통해 x,y,z 에 저장<br>
 ![image](https://user-images.githubusercontent.com/102035198/173283958-404d5aaf-b575-4d4d-8af9-d7e2dea69a0b.png)<br>
 메소드 2개를 생성<br>
 난수발생시키는 경우 playGame()에 해당<br>
