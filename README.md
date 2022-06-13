@@ -13,7 +13,7 @@ Random 함수로 난수발생<br>
 ![image](https://user-images.githubusercontent.com/102035198/173264367-923dab4f-76f6-4ef5-b64a-9fd436fcb8c2.png)<br>
 중복제거와 유저가 입력한 숫자와 컴퓨터가 생성한 숫자를 비교<br>
 # 출력화면
-![image](https://user-images.githubusercontent.com/102035198/173264797-f04075fe-034e-4d94-816f-80eb1df47124.png)
+![image](https://user-images.githubusercontent.com/102035198/173264797-f04075fe-034e-4d94-816f-80eb1df47124.png)<br>
 8 1 4 입력 1 strike 2 ball<br>
 1 8 4 입력 3 strike 0 ball<br>
 3스트라이크가 나왔기 때문에 <br>
